@@ -14,3 +14,4 @@ If you keep on entering wrong inputs, it will reduce the number of tries by 1 an
 
 
 ![Screenshot (108)](https://user-images.githubusercontent.com/73425338/163564345-d5a91831-7390-4360-bd8b-6af4f2bb4c53.png)
+
