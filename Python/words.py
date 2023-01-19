@@ -1,0 +1,1 @@
+wordlist= ["primary","crude","length","rainbow","translate","frank","suffering","convention","define","catalogue","opposition","hate","love","revise","sting","ghost","wrap","sausage","negotiaton","poll","pump","coal","lecture","pawn","discover"]
