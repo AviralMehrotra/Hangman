@@ -1,6 +1,5 @@
 # WordGuessingGame
-This is a word guessing game which is made using java language.
-It is same as of hangman game...which gives you a random word and 10 chances to guess the word...if you do so you will win,else try again.
+This is a word guessing game which it gives you a random word and 10 chances to guess the word...if you do so you will win,else try again.
 
 
 If you are entering the correct letters it will accept those and show it on the blanks..and if you guessed it correctly you won the game...
