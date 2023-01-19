@@ -1,4 +1,4 @@
-# WordGuessingGame
+# Hangman
 This is a word guessing game which it gives you a random word and 10 chances to guess the word...if you do so you will win,else try again.
 
 
