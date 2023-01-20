@@ -2,7 +2,7 @@
 This is a word guessing game which it gives you a random word and 10 chances to guess the word...if you do so you will win,else try again.
 
 
-If you are entering the correct letters it will accept those and show it on the blanks..and if you guessed it correctly you won the game...
+If you are entering the correct letters it will accept those and show it on the blanks..and if you guessed it correctly you won the game.
 
 ![Screenshot (106)](https://user-images.githubusercontent.com/73425338/163564187-fc274fc6-2a94-4181-923f-46742cac3ab5.png)
 
